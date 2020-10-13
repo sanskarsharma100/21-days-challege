@@ -6,7 +6,6 @@ bool arr[86028122];
 void Find()
 {
     int mNum=86028122;
-   
     for(int i=2;i*i<=mNum;i++)
     {
         if(!arr[i])
