@@ -1,2 +1,2 @@
-# 21-days-challenge-ACES
+# 21-days-challenge
 Learning and solving number theory problems
