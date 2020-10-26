@@ -1,2 +1,2 @@
-# 21-days-challenge
+# Number Theory Problems
 Learning and solving number theory problems
